@@ -1,3 +1,4 @@
+/*TWO READ ONE WRITE*/
 module RegFile(
     //INPUTS
     input   logic             clk,          //clock

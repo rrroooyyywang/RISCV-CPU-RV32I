@@ -12,3 +12,5 @@ myprog/
 
 # ignore all myprog files
 myprog
+
+.DS_Store

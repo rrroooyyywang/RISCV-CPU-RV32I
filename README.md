@@ -31,10 +31,10 @@
 ## Team Details
 | Name           | CID      | GitHub   | Email                     | Link to Personal Statement|
 |----------------|----------|----------|---------------------------|--------------|
-| Yi Keat Khoo   | 02021759 | **adrianyk**  | akk121@ic.ac.uk  | [Yi Keat's Statement](Personal_Statements/Yi_Keat_Khoo/Yi_Keat_Khoo.md)
-| Benny Zong Liu | 02015180 | **Bennybenassius** | bencom2014@live.com     | [Benny's Statement](Personal_Statements/Benny_Zong_Liu/Benny_Zong_Liu.md)
-| Deniz Goy      | 02221574 | **DenizzG** | denizgoy2003@gmail.com | [Deniz's Statement](Personal_Statements/Deniz_Goy/Deniz_Goy.md)
-| Yueming Wang  | 02061452 | **rrroooyyywang** (commited as root for few time) | yueming.wang22@imperial.ac.uk | [Yueming's Statement](Personal_Statements/Yueming_Wang/Yueming_Wang.md)
+| Yi Keat Khoo   | 02021759 | **adrianyk**  |   | [Yi Keat's Statement](Personal_Statements/Yi_Keat_Khoo/Yi_Keat_Khoo.md)
+| Benny Zong Liu | 02015180 | **Bennybenassius** |     | [Benny's Statement](Personal_Statements/Benny_Zong_Liu/Benny_Zong_Liu.md)
+| Deniz Goy      | 02221574 | **DenizzG** |  | [Deniz's Statement](Personal_Statements/Deniz_Goy/Deniz_Goy.md)
+| Yueming Wang  | 02061452 | **rrroooyyywang** (commited as root for few time) |  | [Yueming's Statement](Personal_Statements/Yueming_Wang/Yueming_Wang.md)
 
 ## Repo Organisation
 
